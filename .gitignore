@@ -1,0 +1,19 @@
+target
+.idea
+results.xml
+/gherkin-results/
+/src/test/resources/test-results/
+/target/
+/.classpath
+/*.project
+/.settings
+/*.springBeans
+*.xml
+*.json
+<<<<<<< HEAD
+*.html
+!.gitignore
+!pom.xml
+=======
+*.html
+>>>>>>> 3f05c1e8fdb1679a7f91875d48a263c21decff2c
